@@ -19,7 +19,7 @@ abstract class DatabaseFilePath {
 
   /// The stable version of VSCode.
   static String stable =
-      '${configHome.path}/Code/User/globalStorage/state.vscdb';
+      '${configHome.path}/Code - OSS/User/globalStorage/state.vscdb';
 }
 
 /// Represents the database from the `state.vscdb` file that VSCode uses for
